@@ -1,0 +1,15 @@
+# Archivos de Datos (Grandes)
+*.csv
+*.xlsx
+
+# Resultados (Generados)
+Resultados_KPIs/
+Resultados_KPIs_Silvana/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Archivos del IDE (opcional pero recomendado)
+.vscode/
+.idea/
