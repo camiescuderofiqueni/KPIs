@@ -13,3 +13,6 @@ __pycache__/
 # Archivos del IDE (opcional pero recomendado)
 .vscode/
 .idea/
+
+# Archivos de instalación de Python
+*.egg-info/
