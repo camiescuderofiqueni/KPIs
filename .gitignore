@@ -16,3 +16,7 @@ __pycache__/
 
 # Archivos de instalación de Python
 *.egg-info/
+
+# Archivos de Testeo Locales (NO SUBIR)
+test_kpis.py
+test_kpis_silvana.py
