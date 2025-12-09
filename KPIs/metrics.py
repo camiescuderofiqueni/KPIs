@@ -696,7 +696,6 @@ def calculate_iod_reg(df_daily_data, col_iod='IOD_Diario', col_awd='AWD_Diario',
     
     return df_results, dict_coefficients
 
-# --- COPIA ESTA FUNCIÓN MEJORADA EN metrics.py ---
 
 def calculate_score_amaripadath(iod_average_period, df_hi_aligned, df_wbgt_aligned, df_he_aligned):
     """
